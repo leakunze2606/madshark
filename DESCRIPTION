@@ -1,0 +1,16 @@
+Package: madshark
+Type: Package
+Title: Madshark - A screaming Shark in R
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Lea", "Kunze",
+      email = "Kunze.Lea@campus.lmu.de",
+      role = c("aut", "cre")
+    )
+  )
+Description: Returns an ASCII shark figure that screams what you tell it to.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
