@@ -33,10 +33,9 @@ sharksay <- function(message = "I am a shark!") {
 #' @return No return value. This function outputs text to the console.
 #'
 #' @examples
-#' shark_upper("i am loud!")
+#' sharkscream("i am loud!")
 #'
 #' @export
 sharkscream <- function(message = "shouting!") {
   sharksay(toupper(message))
 }
-

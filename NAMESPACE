@@ -2,3 +2,4 @@
 
 export(shark_upper)
 export(sharksay)
+export(sharkscream)
